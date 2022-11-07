@@ -15,12 +15,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/silentspaceship/qr-code-component](https://github.com/silentspaceship/qr-code-component)
+- Live Site URL: [https://silentspaceship.github.io/qr-code-component/](https://silentspaceship.github.io/qr-code-component/)
 
 ### Built with
 
@@ -32,5 +32,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- GitHub Profile - [silentspaceship](https://github.com/silentspaceship/)
+- Frontend Mentor - [@silentspaceship](https://www.frontendmentor.io/profile/silentspaceship)
